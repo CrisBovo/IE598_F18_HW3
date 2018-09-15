@@ -208,6 +208,6 @@ corMat = DataFrame(rocksVMines.corr())
 plot.pcolor(corMat)
 plot.show()
 
-print("My name is {type your name here}")
-print("My NetID is: {type your NetID here}")
+print("My name is Haichao Bo")
+print("My NetID is: hbo2")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
